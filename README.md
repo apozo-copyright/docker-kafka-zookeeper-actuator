@@ -38,6 +38,12 @@ test2
 test3
 ```
 
+Verify the actuator is working
+
+curl http://localhost:8080/actuator/health
+
+{"status":"UP","components":{"kafka":{"status":"UP","details":{"requiredNodes":1,"clusterId":"rsjRotl4S0CAtcyy6nNjIQ","brokerId":"0","nodes":1}}, ... }}
+
 Get from Dockerhub
 ------------------
 https://hub.docker.com/r/apozocopyright/kafka-zookeeper-actuator
