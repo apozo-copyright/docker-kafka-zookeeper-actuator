@@ -1,5 +1,5 @@
 Docker Kafka Zookeeper Actuator ![Build Status](https://travis-ci.org/apozo-copyright/docker-kafka-zookeeper-actuator.svg?branch=master)
-===============================
+================================
 Docker image for Kafka message broker including Zookeeper and Spring Boot actuator
 
 Build
