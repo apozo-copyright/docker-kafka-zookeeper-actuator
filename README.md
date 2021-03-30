@@ -7,7 +7,7 @@ Build
 ```
 $ docker build . -t kafka-zookeeper-actuator
 [...]
-Successfully built 9b382d40bccc
+Successfully built ...
 ```
 
 Run container
