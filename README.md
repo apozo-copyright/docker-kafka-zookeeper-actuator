@@ -51,3 +51,4 @@ https://hub.docker.com/r/apozocopyright/kafka-zookeeper-actuator
 Credits
 -------
 Originally cloned and inspired by https://github.com/hey-johnnypark/docker-kafka-zookeeper
+and https://github.com/snicoll/spring-boot/blob/gh-12222/spring-boot-project/spring-boot-actuator/src/main/java/org/springframework/boot/actuate/kafka/KafkaHealthIndicator.java
